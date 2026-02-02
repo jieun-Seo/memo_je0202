@@ -85,7 +85,7 @@ function App() {
                     className="clear-all-button"
                     onClick={handleClearAll}
                     >
-                    🗑️ 전체 삭제
+                    🗑️ 전체 삭제 🗑️
                     </button>
                 )}
             <MemoList
